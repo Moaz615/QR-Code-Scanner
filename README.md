@@ -14,3 +14,7 @@ A simple web application that lets users upload an image of a QR code and extrac
 - Copy decoded result to clipboard
 - Reset/Close scanned result
 - Stylish UI with transitions and responsiveness
+
+## 📸 Screenshot
+
+![Screenshot of QR Scanner App](Screenshot.png)
