@@ -4,7 +4,7 @@ A simple web application that lets users upload an image of a QR code and extrac
 
 ## 🌐 Live Demo
 
-[View it live]()
+[View it live](https://qr-code-scanner.moaz.site/)
 
 ## Features
 
